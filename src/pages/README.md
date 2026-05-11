@@ -4,17 +4,17 @@ Esta carpeta documenta la arquitectura del proyecto `telegram-agent-ui-phase3` s
 
 ## Contenido
 
-1. [01-system-context.md](./01-system-context.md)
+1. [01-system-context.md](../../docs/01-system-context.md)
    Vista de contexto del sistema, actores y sistemas externos.
-2. [02-container.md](./02-container.md)
+2. [02-container.md](../../docs/02-container.md)
    Vista de contenedores logicos y de despliegue principal.
-3. [03-component.md](./03-component.md)
+3. [03-component.md](../../docs/03-component.md)
    Vista de componentes internos del backend y frontend.
-4. [04-code.md](./04-code.md)
+4. [04-code.md](../../docs/04-code.md)
    Vista de codigo, clases principales y relaciones.
-5. [05-runtime-deployment.md](./05-runtime-deployment.md)
+5. [05-runtime-deployment.md](../../docs/05-runtime-deployment.md)
    Flujos runtime multicanal, APIs y despliegue.
-6. [06-decisions-risks.md](./06-decisions-risks.md)
+6. [06-decisions-risks.md](../../docs/06-decisions-risks.md)
    Decisiones arquitectonicas, trade-offs, riesgos y evolucion recomendada.
 
 ## Resumen ejecutivo
